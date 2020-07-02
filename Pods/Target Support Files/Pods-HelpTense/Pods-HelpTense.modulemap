@@ -1,0 +1,6 @@
+framework module Pods_HelpTense {
+  umbrella header "Pods-HelpTense-umbrella.h"
+
+  export *
+  module * { export * }
+}
